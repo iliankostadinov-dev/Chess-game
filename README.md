@@ -56,6 +56,12 @@ This allows the game to continue after app restart.
 
 ---
 
+## Tech Stack
+- Java
+- Android SDK
+- GridLayout (chessboard UI)
+- SharedPreferences (data persistence)
+
 ## Screenshots
 
 ### Main Screen
@@ -68,9 +74,3 @@ This allows the game to continue after app restart.
 <img src="screenshots/ProjectStructure.png" width="300"/>
 
 ---
-
-## Tech Stack
-- Java
-- Android SDK
-- GridLayout (chessboard UI)
-- SharedPreferences (data persistence)
