@@ -62,6 +62,8 @@ This allows the game to continue after app restart.
 - GridLayout (chessboard UI)
 - SharedPreferences (data persistence)
 
+---
+
 ## Screenshots
 
 ### Main Screen
