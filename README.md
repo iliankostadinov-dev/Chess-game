@@ -59,13 +59,13 @@ This allows the game to continue after app restart.
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/MainActivity.png)
+<img src="screenshots/MainActivity.png" width="300"/>
 
 ### Game Screen
-![Game Screen](screenshots/ChessActivity.png)
+<img src="screenshots/ChessActivity.png" width="300"/>
 
 ### Project Structure
-![Project Structure](screenshots/ProjectStructure.png)
+<img src="screenshots/ProjectStructure.png" width="300"/>
 
 ---
 
