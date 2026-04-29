@@ -66,13 +66,13 @@ This allows the game to continue after app restart.
 
 ## Screenshots
 
+### Project Structure
+<img src="screenshots/ProjectStructure.png" width="300"/>
+
 ### Main Screen
 <img src="screenshots/MainActivity.png" width="300"/>
 
 ### Game Screen
 <img src="screenshots/ChessActivity.png" width="300"/>
-
-### Project Structure
-<img src="screenshots/ProjectStructure.png" width="300"/>
 
 ---
